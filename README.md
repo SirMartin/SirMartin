@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 Senior Software Engineer @Nextail
+- 🔭 Senior Software Engineer @Nextail Labs
 - 🌱 Learning Python and Ruby
 - ![image](https://user-images.githubusercontent.com/854646/188804378-dcaffab6-3269-4f36-99f6-b316bc33da80.png) BoardGamer lover
-- 📫 Reach me on [Twitter](https://twitter.com/sirmartin)
+- 📫 Reach me on [Twitter](https://twitter.com/sirmartinpiribi)
 - 🌈 He/him
 - 🇪🇸 🇩🇰 🇬🇧
 
