@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Senior Software Engineer @Nextail Labs
-- 🌱 Learning Python and Ruby
+- 🔭 Senior Software Engineer [@Genially](https://github.com/Genially/)
+- 🌱 Learning Node
 - ![image](https://user-images.githubusercontent.com/854646/188804378-dcaffab6-3269-4f36-99f6-b316bc33da80.png) BoardGamer lover
 - 📫 Reach me on [Twitter](https://twitter.com/sirmartinpiribi)
 - 🌈 He/him
